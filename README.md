@@ -20,7 +20,7 @@ A modern and sleek mobile UI built with *Flutter* for showcasing and booking pro
 
 ## 🖼 UI Preview
 
-<img src="screenshots/home.png" width="300" alt="Home Screen Preview">
+<img src="https://drive.google.com/drive/folders/1qeMiIvJQXysL271lDZ48MWFgOPyASJm5">
 
 ---
 
